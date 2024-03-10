@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome 👋🏼
+
+I'm **Sarthak (Sar) Yadav**, a **Data Scientist** with a knack for leveraging data to uncover opportunities and solve complex challenges. Currently enhancing my skills as a **Master of Management Analytics Candidate at the Rotman School of Management, University of Toronto**, I bring a rich background in economics-mathematics and data science from the **University of California, San Diego**.
 
 <!--
 **sarthakyad01/sarthakyad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
