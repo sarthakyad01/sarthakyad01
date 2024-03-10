@@ -7,8 +7,7 @@ As a forward-thinking Data Scientist and Generative AI Enthusiast, I'm currently
 I am passionate about data and AI's transformative power and aim to pioneer in data-driven strategies and AI applications. My goal is to devise scalable solutions that bolster decision-making and operational efficiency across various industries.
 
 🔗 **Let's Connect:**
-- [LinkedIn](https://www.linkedin.com/in/sarthak-yadav-356128185)
-- [Email](mailto:sarthakyad01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-yadav-356128185) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakyad01@gmail.com) [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](sarthakyad01.wixsite.com/personalsite)
 
 ### Skills and Expertise
 - **Programming Languages:** Python, R, SQL, SAS
