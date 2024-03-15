@@ -30,6 +30,9 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
 "Driven by the belief that data and AI are the keystones of future innovations, I am on a quest to make a significant impact through technological advancement and strategic development."
 
 
+---
+### Projects
+
 <!--
 **sarthakyad01/sarthakyad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
