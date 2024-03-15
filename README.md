@@ -32,7 +32,7 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
 
 ---
 ### Projects
-- [IBM Watson Analytics Marketing Campaign](https://github.com/sarthakyad01/Fast-Food-Marketing-Campaign-A-B-Test.git): A fast-food chain plans to add a new item to its menu. However, they are still undecided between three possible marketing campaigns for promoting the new product. In order to determine which promotion has the greatest effect on sales, the new item is introduced at locations in several randomly selected markets. A different promotion is used at each location, and the weekly sales of the new item are recorded for the first four weeks. There is a need to evaluate which of these promotion strategies produces the best results for the fast-food chain. 
+- [IBM Watson Analytics Marketing Campaign](https://github.com/sarthakyad01/Fast-Food-Marketing-Campaign-A-B-Test.git): This project involves the application of ANOVA test in order to evaluate which among the promotion strategies adopted are the most suitable for a fast-food chain to utilize in order to optimize their sales after the inclusion of a new item to their menu. 
 <!--
 **sarthakyad01/sarthakyad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
