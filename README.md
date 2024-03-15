@@ -32,7 +32,7 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
 
 ---
 ### Projects
-- [IBM Watson Analytics Marketing Campaign]
+- [IBM Watson Analytics Marketing Campaign](https://github.com/sarthakyad01/Fast-Food-Marketing-Campaign-A-B-Test.git)
 <!--
 **sarthakyad01/sarthakyad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
