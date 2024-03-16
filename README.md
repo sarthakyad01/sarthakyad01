@@ -1,4 +1,4 @@
-# Sarthak (Sar) Yadav 👋🏼
+# Sarthak (Sar) Yadav
 
 ### Data Science & Generative AI Enthusiast | MMA Class of 2024 @ Rotman School of Management | BSc in Economics & Mathematics @ UC San Diego | #OPEN_TO_WORK
 
