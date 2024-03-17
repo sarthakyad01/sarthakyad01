@@ -32,7 +32,7 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
 
 ---
 ### Projects
-- [Finding Wildlife Traffickers based on customer transactions at Scotiabank](https://github.com/sarthakyad01/IMI.git): This project seeks to identify which individuals are wildlife traffickers based on their transaction history at Scotiabank.
+- [Finding Wildlife Traffickers based on customer transactions at Scotiabank](https://github.com/sarthakyad01/IMI.git): This project seeks to identify individuals with an account at Scotiabank that have committed fraud and following this identify individuals that were among those responsible in wildlife trafficking.
   
 - [Identifying Optimal Spots for Reconstruction and Renovation](https://github.com/sarthakyad01/Optimal-Spots-for-Construction-and-Renovation.git): This project seeks to enhance reconstruction and renovation approaches in Canada by clustering regions according to demographic trends. It then utilizes diverse algorithms to identify median household incomes within these clusters, guiding tailored strategies for reconstruction and renovation based on income levels.
   
