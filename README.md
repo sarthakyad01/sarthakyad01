@@ -32,6 +32,7 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
 
 ---
 ### Projects
+- [Identifying Optimal Spots for Reconstruction and Renovation](https://github.com/sarthakyad01/Optimal-Spots-for-Construction-and-Renovation.git): This project seeks to enhance reconstruction and renovation approaches in Canada by clustering regions according to demographic trends. It then utilizes diverse algorithms to identify median household incomes within these clusters, guiding tailored strategies for reconstruction and renovation based on income levels.
 - [IBM Watson Analytics Marketing Campaign](https://github.com/sarthakyad01/Fast-Food-Marketing-Campaign-A-B-Test.git): This project involves the application of ANOVA test in order to evaluate which among the promotion strategies adopted are the most suitable for a fast-food chain to utilize in order to optimize their sales after the inclusion of a new item to their menu.
 - [A/B Testing Sales Team Proposal at a Video Game Company](https://github.com/sarthakyad01/A-B-Testing-Sales-Team-Proposal.git): This project involves optimizing the matching algorithm at a video game company, i.e., whether higher waiting times, and lower bot matching increases in game ad revenue without deteriorating the user experience.
 <!--
