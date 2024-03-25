@@ -38,6 +38,8 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
   
 - [IBM Watson Analytics Marketing Campaign](https://github.com/sarthakyad01/Fast-Food-Marketing-Campaign-A-B-Test.git): This project involves the application of ANOVA test in order to evaluate which among the promotion strategies adopted are the most suitable for a fast-food chain to utilize in order to optimize their sales after the inclusion of a new item to their menu.
   
+- [Inflation Data EDA](https://github.com/sarthakyad01/Inflation-EDA.git): This project is centered around performing extensive Data Visualization to evaluate the levels of inflation across countries over the decades from 1980 onwards.
+  
 - [A/B Testing Sales Team Proposal at a Video Game Company](https://github.com/sarthakyad01/A-B-Testing-Sales-Team-Proposal.git): This project involves optimizing the matching algorithm at a video game company, i.e., whether higher waiting times, and lower bot matching increases in game ad revenue without deteriorating the user experience.
 <!--
 **sarthakyad01/sarthakyad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
