@@ -40,7 +40,7 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
   
 - [IBM Watson Analytics Marketing Campaign](https://github.com/sarthakyad01/Fast-Food-Marketing-Campaign-A-B-Test.git): This project involves the application of ANOVA test in order to evaluate which among the promotion strategies adopted are the most suitable for a fast-food chain to utilize in order to optimize their sales after the inclusion of a new item to their menu.
   
-- [Carbon Dioxide Emissions by Countries EDA Analysis](https://github.com/sarthakyad01/CO2_Emissions.git):
+- [Carbon Dioxide Emissions by Countries EDA Analysis](https://github.com/sarthakyad01/CO2_Emissions.git): This project involves the application of extensive EDA with Regression analysis to determine the Carbon Emissions by country and factors impacting them. Through this analysis it can be identified which countries are the major polluters, and which factors are most important in determining those emissions.
   
 - [Inflation Data EDA](https://github.com/sarthakyad01/Inflation-EDA.git): This project is centered around performing extensive Data Visualization to evaluate the levels of inflation across countries over the decades from 1980 onwards. The purpose of this project was to observe how inflation levels across countries can be related to the region they are in, identify the years of economic expansion & recession, etc.
   
