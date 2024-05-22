@@ -46,7 +46,7 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
   
 - [A/B Testing Sales Team Proposal at a Video Game Company](https://github.com/sarthakyad01/A-B-Testing-Sales-Team-Proposal.git): This project involves optimizing the matching algorithm at a video game company to determine if higher waiting times and lower bot matching can increase in-game ad revenue without deteriorating the user experience. A/B testing was used to evaluate the impact of these changes, aiming to strike a balance between maximizing revenue and maintaining a positive gaming experience for users.
 
--  [Quora Question Pair Similarity]
+- [Quora Question Pair Similarity](https://github.com/sarthakyad01/Quora_Question_Pair_Similarity.git): This project focuses on determining whether questions posted on Quora are duplicates, meaning they essentially seek the same answer. To achieve this, we compared the performance of several advanced machine learning models: Siamese BERT, LSTM, and Sentence Transformer, against the historically used 75% accuracy Random Forest model. The goal was to assess the effectiveness of these models in identifying duplicate questions, thereby improving the accuracy and efficiency of duplicate detection on the platform. 
 <!--
 **sarthakyad01/sarthakyad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
