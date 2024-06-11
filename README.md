@@ -16,7 +16,7 @@ I am passionate about data and AI's transformative power and aim to pioneer in d
 - **Data Visualization and BI Tools:** Tableau, Power BI, Excel, MATLAB
 - **Cloud Computing:** Azure, AWS
 - **Machine Learning & AI:** Generative AI, NLP, OCR, Large Language Models (including Hugging Face)
-- **Analytics & Data Management:** Data Wrangling, Predictive Modeling, MDM
+- **Analytics & Data Management:** Data Wrangling, Predictive Modeling, Prescriptive Analytics, Forecasting Analytics
 - **Soft Skills:** Leadership, Project Management, Strategic Planning, Critical Thinking
 
 ---
