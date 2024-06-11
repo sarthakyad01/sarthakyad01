@@ -1,6 +1,6 @@
 # Sarthak (Sar) Yadav
 
-### Data Science & Generative AI Enthusiast | MMA Class of 2024 @ Rotman School of Management | BSc in Economics & Mathematics @ UC San Diego | #OPEN_TO_WORK
+### Data Science & LLM Enthusiast | Data Analyst | MMA Class of 2024 @ University of Toronto | BSc in Economics & Mathematics @ University of California San Diego | Seeking Opportunities as Data Analyst and Data Scientist | #OPEN_TO_WORK
 
 As a forward-thinking Data Scientist and Generative AI Enthusiast, I'm currently sharpening my skills at the intersection of data analytics and AI through the Master of Management Analytics program at the Rotman School of Management, University of Toronto. My journey is built on a solid foundation from UC San Diego, where I majored in Economics-Mathematics with a minor in Data Science. I delve deep into data analysis, predictive modeling, and machine learning's transformative capabilities.
 
