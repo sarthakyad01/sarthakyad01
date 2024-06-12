@@ -22,7 +22,7 @@ I am passionate about data and AI's transformative power and aim to pioneer in d
 ---
 
 ### On the Horizon
-I am actively seeking opportunities that challenge me to use my skills in Data Science and Generative AI to innovate and create impactful solutions. I'm particularly interested in roles that involve Data Scientist, LLM, and Data Analyst capacities.
+I am actively seeking opportunities that challenge me to use my skills in Data Science to innovate and create impactful solutions. I'm particularly interested in roles that involve Data Science, LLM, and Data Analytics capacities.
 
 🔗 **Let's Connect:**
 
