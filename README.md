@@ -2,7 +2,7 @@
 
 ### Data Science & LLM Enthusiast | Data Analyst | MMA Class of 2024 @ University of Toronto | BSc in Economics & Mathematics @ University of California San Diego | Seeking Opportunities as Data Analyst and Data Scientist | #OPEN_TO_WORK
 
-As a forward-thinking Data Scientist and Generative AI Enthusiast, I'm currently sharpening my skills at the intersection of data analytics and AI through the Master of Management Analytics program at the Rotman School of Management, University of Toronto. My journey is built on a solid foundation from UC San Diego, where I majored in Economics-Mathematics with a minor in Data Science. I delve deep into data analysis, predictive modeling, and machine learning's transformative capabilities.
+As a forward-thinking Data Scientist and LLM Enthusiast with bilingual proficiency in English and French, I am currently honing my expertise at the intersection of data analytics and artificial intelligence through the Master of Management Analytics program at the University of Toronto. My journey in data science is supported by a robust foundation in Economics and Mathematics with a minor in Data Science from UC, San Diego, where I delved into complex data analysis, predictive modeling, and the transformative potential of machine learning techniques.
 
 I am passionate about data and AI's transformative power and aim to pioneer in data-driven strategies and AI applications. My goal is to devise scalable solutions that bolster decision-making and operational efficiency across various industries.
 
