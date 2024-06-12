@@ -14,7 +14,7 @@ I am passionate about data and AI's transformative power and aim to pioneer in d
 ### Skills and Expertise
 - **Programming Languages:** Python, R, SQL, SAS
 - **Data Visualization and BI Tools:** Tableau, Power BI, Excel, MATLAB
-- **Cloud Computing:** Azure, AWS
+- **Cloud Computing:** Azure, Google Analytics
 - **Machine Learning & AI:** Generative AI, NLP, OCR, Large Language Models (including Hugging Face)
 - **Analytics & Data Management:** Data Wrangling, Predictive Modeling, Prescriptive Analytics, Forecasting Analytics
 - **Soft Skills:** Leadership, Project Management, Strategic Planning, Critical Thinking
