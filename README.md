@@ -12,7 +12,7 @@ I am passionate about data and AI's transformative power and aim to pioneer in d
 - **2nd place** in the **Intuit X Rotman Product Management Case Competition**, demonstrating my ability in strategy, creativity, and innovation in product management.
 
 ### Skills and Expertise
-- **Programming Languages:** Python, R, SQL, SAS
+- **Programming Languages:** Python, R, SQL, SAS, Stata, Java
 - **Data Visualization and BI Tools:** Tableau, Power BI, Excel, MATLAB
 - **Cloud Computing:** Azure, Google Analytics
 - **Machine Learning & AI:** Generative AI, NLP, OCR, Large Language Models (including Hugging Face)
