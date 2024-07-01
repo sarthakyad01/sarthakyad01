@@ -36,8 +36,12 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
 ---
 ### Projects
 
-#### Large Language Models
+### ***Large Language Models***
 - [Finding Wildlife Traffickers based on customer transactions at Scotiabank](https://github.com/sarthakyad01/IMI.git): This project aims to detect fraudulent activity among Scotiabank account holders and identify connections to wildlife trafficking. Using LLMs and Machine Learning techniques, the project will flag suspicious transactions and behaviors indicative of fraud. Identified fraudsters will then be cross-referenced with data from law enforcement and wildlife protection agencies to uncover links to wildlife trafficking networks, enhancing anti-fraud measures and contributing to global conservation efforts.
+
+- [Academic Domain Prediction](https://github.com/sarthakyad01/Academic-Domain-Prediction.git): This project focuses on using fine tuned GPT 3.5-turbo and DistilBERT models to predict Academic Domain based on text abstract provided and comparing the accuracy of these models with and without fine-tuning to evaluate the benefit of fine-tuning a LLM model for classification tasks.
+
+- [Quora Question Pair Similarity](https://github.com/sarthakyad01/Quora_Question_Pair_Similarity.git): This project focuses on determining whether questions posted on Quora are duplicates, meaning they essentially seek the same answer. To achieve this, we compared the performance of several advanced machine learning models: Siamese BERT, LSTM, and Sentence Transformer, against the historically used 75% accuracy Random Forest model. The goal was to assess the effectiveness of these models in identifying duplicate questions, thereby improving the accuracy and efficiency of duplicate detection on the platform.
   
 - [Identifying Optimal Spots for Reconstruction and Renovation](https://github.com/sarthakyad01/Optimal-Spots-for-Construction-and-Renovation.git): This project aims to improve reconstruction and renovation strategies in Canada by clustering regions using K-Means Clustering based on demographic trends. Using various algorithms such as Decision Trees, SVMs, Regression Models, it identifies median household incomes within these clusters, enabling tailored approaches for reconstruction and renovation that are aligned with income levels.
   
@@ -49,11 +53,7 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
   
 - [A/B Testing Sales Team Proposal at a Video Game Company](https://github.com/sarthakyad01/A-B-Testing-Sales-Team-Proposal.git): This project involves optimizing the matching algorithm at a video game company to determine if higher waiting times and lower bot matching can increase in-game ad revenue without deteriorating the user experience. A/B testing was used to evaluate the impact of these changes, aiming to strike a balance between maximizing revenue and maintaining a positive gaming experience for users.
 
-- [Quora Question Pair Similarity](https://github.com/sarthakyad01/Quora_Question_Pair_Similarity.git): This project focuses on determining whether questions posted on Quora are duplicates, meaning they essentially seek the same answer. To achieve this, we compared the performance of several advanced machine learning models: Siamese BERT, LSTM, and Sentence Transformer, against the historically used 75% accuracy Random Forest model. The goal was to assess the effectiveness of these models in identifying duplicate questions, thereby improving the accuracy and efficiency of duplicate detection on the platform.
-
 - [Big Mart Sales Prediction](https://github.com/sarthakyad01/Big-Mart-Sales.git): This project focuses on predicting the sales of products at Big Mart outlets and to identify the factors influencing sales performance. This involved analyzing historical sales data to develop predictive models that could forecast sales figures based on various store and product attributes. To meet this objective a Decision Tree Model and Boosting Model was employed in R with the Boosting Model ensuring a lower Mean Squared Error as compared to the Decision Tree Model.
-  
-- [Academic Domain Prediction](https://github.com/sarthakyad01/Academic-Domain-Prediction.git): This project focuses on using fine tuned GPT 3.5-turbo and DistilBERT models to predict Academic Domain based on text abstract provided and comparing the accuracy of these models with and without fine-tuning to evaluate the benefit of fine-tuning a LLM model for classification tasks.
 
 - [North American Stock Exchange Analysis](https://github.com/sarthakyad01/North-American-Stock-Exchange-Analysis.git): Utilized SQL to manipulate a relational database for identifying top-performing stocks in North America; employed Window Functions, SQL Joins, and advanced SQL techniques to design and query the database, enhancing strategic financial decision-making.
 <!--
