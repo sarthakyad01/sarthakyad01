@@ -36,7 +36,7 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
 ---
 ### Projects
 
-#### ***Large Language Models***
+#### ***Large Language Models:***
 - [Finding Wildlife Traffickers based on customer transactions at Scotiabank](https://github.com/sarthakyad01/IMI.git): This project aims to detect fraudulent activity among Scotiabank account holders and identify connections to wildlife trafficking. Using LLMs and Machine Learning techniques, the project will flag suspicious transactions and behaviors indicative of fraud. Identified fraudsters will then be cross-referenced with data from law enforcement and wildlife protection agencies to uncover links to wildlife trafficking networks, enhancing anti-fraud measures and contributing to global conservation efforts.
 
 - [Academic Domain Prediction](https://github.com/sarthakyad01/Academic-Domain-Prediction.git): This project focuses on using fine tuned GPT 3.5-turbo and DistilBERT models to predict Academic Domain based on text abstract provided and comparing the accuracy of these models with and without fine-tuning to evaluate the benefit of fine-tuning a LLM model for classification tasks.
