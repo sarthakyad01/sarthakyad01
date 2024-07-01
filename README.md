@@ -35,6 +35,8 @@ I am actively seeking opportunities that challenge me to use my skills in Data S
 
 ---
 ### Projects
+
+#### Large Language Models
 - [Finding Wildlife Traffickers based on customer transactions at Scotiabank](https://github.com/sarthakyad01/IMI.git): This project aims to detect fraudulent activity among Scotiabank account holders and identify connections to wildlife trafficking. Using LLMs and Machine Learning techniques, the project will flag suspicious transactions and behaviors indicative of fraud. Identified fraudsters will then be cross-referenced with data from law enforcement and wildlife protection agencies to uncover links to wildlife trafficking networks, enhancing anti-fraud measures and contributing to global conservation efforts.
   
 - [Identifying Optimal Spots for Reconstruction and Renovation](https://github.com/sarthakyad01/Optimal-Spots-for-Construction-and-Renovation.git): This project aims to improve reconstruction and renovation strategies in Canada by clustering regions using K-Means Clustering based on demographic trends. Using various algorithms such as Decision Trees, SVMs, Regression Models, it identifies median household incomes within these clusters, enabling tailored approaches for reconstruction and renovation that are aligned with income levels.
