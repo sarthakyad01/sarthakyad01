@@ -10,14 +10,16 @@ I am passionate about data and AI's transformative power and aim to pioneer in d
 - Co-founder of **VYBeS Education**, a digital platform revolutionizing access to overseas education.
 - Secured **1st place at the HEC Data Challenge**, showcasing exceptional data analytics skills to optimize healthcare outcomes in Canada.
 - **2nd place** in the **Intuit X Rotman Product Management Case Competition**, demonstrating my ability in strategy, creativity, and innovation in product management.
+- **Semi-Finalist** in a **retail management competition at McGill University**; proposed a SKU optimization and cloud-based inventory management system for Carole Thrift Store, a fast-growing vintage clothing store in Quebec.
+
 
 ### Skills and Expertise
 - **Programming Languages:** Python, R, SQL, SAS, Stata, Java
 - **Data Visualization and BI Tools:** Tableau, Power BI, Excel, MATLAB
-- **Cloud Computing:** Azure, Google Analytics
-- **Machine Learning & AI:** Generative AI, NLP, OCR, Large Language Models (including Hugging Face)
-- **Analytics & Data Management:** Data Wrangling, Predictive Modeling, Prescriptive Analytics, Forecasting Analytics
-- **Soft Skills:** Leadership, Project Management, Strategic Planning, Critical Thinking
+- **Cloud Computing:** AWS Cloud, Google Analytics
+- **Machine Learning & AI:** NLP, OCR, Large Language Models (including Hugging Face)
+- **Analytics & Data Management:** Data Wrangling, Data Profiling, Predictive Modeling, Prescriptive Analytics, Forecasting Analytics
+- **Soft Skills:** Communication, Analytical Mindset, Team Collaboration, Leadership, Project Management, Strategic Planning, Critical Thinking
 
 ---
 
