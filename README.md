@@ -1,6 +1,6 @@
 # Sarthak (Sar) Yadav
 
-### Data Science & LLM Enthusiast | Data Analyst | MMA Class of 2024 @ University of Toronto | BSc in Economics & Mathematics with Minor in Data Science @ University of California San Diego | Seeking Opportunities in Analytics space | #OPEN_TO_WORK
+### Data Science & LLM Enthusiast | Data Analyst | MSc in Management Analytics @ University of Toronto | BSc in Economics, Mathematics & Data Science @ University of California San Diego
 
 As a forward-thinking Data Scientist and LLM Enthusiast with bilingual proficiency in English and French, I am currently honing my expertise at the intersection of data analytics and artificial intelligence through the Master of Management Analytics program at the University of Toronto. My journey in data science is supported by a robust foundation in Economics and Mathematics with a minor in Data Science from UC, San Diego, where I delved into complex data analysis, predictive modeling, and the transformative potential of machine learning techniques.
 
