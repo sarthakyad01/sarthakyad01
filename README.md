@@ -2,7 +2,7 @@
 
 ### Data Science & LLM Enthusiast | Data Analyst | MSc in Management Analytics @ University of Toronto | BSc in Economics, Mathematics & Data Science @ University of California San Diego
 
-As a forward-thinking Data Scientist and LLM Enthusiast with bilingual proficiency in English and French, I am currently honing my expertise at the intersection of data analytics and artificial intelligence through the Master of Management Analytics program at the University of Toronto. My journey in data science is supported by a robust foundation in Economics and Mathematics with a minor in Data Science from UC, San Diego, where I delved into complex data analysis, predictive modeling, and the transformative potential of machine learning techniques.
+As a forward-thinking Data Analyst passionate about consumer theory, marketing, and sales data analysis, I combine technical expertise with strategic insight to solve complex business challenges. With a Master of Management Analytics from the University of Toronto and a strong foundation in Economics, Mathematics, and Data Science from UC San Diego, I specialize in predictive modeling, machine learning, and leveraging data to inform decision-making. My experience spans fintech and retail, where I’ve developed forecasting models, analyzed marketing channel performance, and delivered actionable insights to drive growth.
 
 I am passionate about data and AI's transformative power and aim to pioneer in data-driven strategies and AI applications. My goal is to devise scalable solutions that bolster decision-making and operational efficiency across various industries.
 
