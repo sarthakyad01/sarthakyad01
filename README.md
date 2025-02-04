@@ -14,17 +14,12 @@ I am passionate about data and AI's transformative power and aim to pioneer in d
 
 
 ### Skills and Expertise
-- **Programming Languages:** Python, R, SQL, SAS, Stata, Java
-- **Data Visualization and BI Tools:** Tableau, Power BI, Excel, MATLAB
-- **Cloud Computing:** AWS Cloud, Google Analytics
-- **Machine Learning & AI:** NLP, OCR, Large Language Models (including Hugging Face)
-- **Analytics & Data Management:** Data Wrangling, Data Profiling, Predictive Modeling, Prescriptive Analytics, Forecasting Analytics
-- **Soft Skills:** Communication, Analytical Mindset, Team Collaboration, Leadership, Project Management, Strategic Planning, Critical Thinking
-
----
-
-### On the Horizon
-I am actively seeking opportunities that challenge me to use my skills in Data Science to innovate and create impactful solutions. I'm particularly interested in roles that involve Data Science, LLM, and Data Analytics capacities.
+- **Programming Languages:** Python, R, SQL, SAS, Stata, Java, VBA Macros, Power Query, DAX
+- **Data Visualization and BI Tools:** Tableau, Power BI, IBM Cognos, Google Analytics, Salesforce, Excel, MATLAB
+- **Cloud Computing:** AWS Cloud
+- **Machine Learning & AI:** Large Language Models (Including Transformers), Natural Language Processing, Optical Character Recognition
+- **Analytics & Data Management:** Data Cleaning & Processing, Predictive Modeling, Prescriptive Analytics, Forecasting Analytics
+- **Soft Skills:** Communication, Analytical Thinking, Cross-Functional Collaboration, Leadership, Problem-Solving, Critical Thinking, Proactive, Curious
 
 🔗 **Let's Connect:**
 
