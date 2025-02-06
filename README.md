@@ -17,7 +17,7 @@ I am passionate about data and AI's transformative power and aim to pioneer in d
 - **Programming Languages:** Python, R, SQL, SAS, Stata, Java, VBA Macros, Power Query, DAX
 - **Data Visualization and BI Tools:** Tableau, Power BI, IBM Cognos, Google Analytics, Salesforce, Excel, MATLAB
 - **Cloud Computing:** AWS Cloud
-- **Machine Learning & AI:** Large Language Models (Including Transformers), Natural Language Processing, Optical Character Recognition
+- **Machine Learning & AI:** Large Language Models (Including Transformers), Natural Language Processing, Optical Character Recognition, Regression Models, Decision Tree, Boosting Algorithms, Sentiment Analysis, GIS
 - **Analytics & Data Management:** Data Cleaning & Processing, Predictive Modeling, Prescriptive Analytics, Forecasting Analytics
 - **Soft Skills:** Communication, Analytical Thinking, Cross-Functional Collaboration, Leadership, Problem-Solving, Critical Thinking, Proactive, Curious
 
