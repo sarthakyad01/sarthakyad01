@@ -23,7 +23,7 @@ I am passionate about data and AI's transformative power and aim to pioneer in d
 
 🔗 **Let's Connect:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-yadav-356128185) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakyad01@gmail.com) [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](sarthakyad01.wixsite.com/personalsite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-yadav-356128185) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakyad01@gmail.com)
 
 ---
 
