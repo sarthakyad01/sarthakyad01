@@ -1,10 +1,12 @@
 # Sarthak (Sar) Yadav
 
-### Data Science & LLM Enthusiast | Data Analyst | MSc in Management Analytics @ University of Toronto | BSc in Economics, Mathematics & Data Science @ University of California San Diego
+### Data Analyst | Retail Analytics, Pricing & Customer Intelligence | Forecasting, Recommendation Systems & Experimentation | MSc in Management Analytics @ University of Toronto | BSc in Economics, Mathematics & Data Science @ University of California San Diego
 
-As a forward-thinking Data Analyst passionate about consumer theory, marketing, and sales data analysis, I combine technical expertise with strategic insight to solve complex business challenges. With a Master of Management Analytics from the University of Toronto and a strong foundation in Economics, Mathematics, and Data Science from UC San Diego, I specialize in predictive modeling, machine learning, and leveraging data to inform decision-making. My experience spans fintech and retail, where I’ve developed forecasting models, analyzed marketing channel performance, and delivered actionable insights to drive growth.
+I’m a Data Analyst specializing in retail and consumer analytics, with experience turning transaction, customer, and marketing data into actionable business insights. I hold a Master of Management Analytics from the University of Toronto and a BSc in Economics-Mathematics from UC San Diego.
 
-I am passionate about data and AI's transformative power and aim to pioneer in data-driven strategies and AI applications. My goal is to devise scalable solutions that bolster decision-making and operational efficiency across various industries.
+My work focuses on solving retail problems such as customer segmentation, pricing optimization, demand forecasting, promotion effectiveness, and product recommendations. I’ve built models and analytics solutions using Python, SQL, Tableau, Power BI, BigQuery, and Snowflake to improve revenue, optimize marketing spend, and enhance customer experience.
+
+I’m particularly interested in how data and AI can drive smarter merchandising, personalized customer journeys, and scalable decision-making in retail and e-commerce.
 
 ### Achievements
 - Co-founder of **VYBeS Education**, a digital platform revolutionizing access to overseas education.
