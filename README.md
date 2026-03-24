@@ -16,9 +16,9 @@ I’m particularly interested in how data and AI can drive smarter merchandising
 
 
 ### Skills and Expertise
-- **Programming Languages:** Python, R, SQL, SAS, Stata, Java, VBA Macros, Power Query, DAX, BigQuery, Snowflake, Microsoft Fabric
+- **Programming Languages:** Python, R, SQL, SAS, Stata, Java, VBA Macros, Power Query, DAX, BigQuery, Snowflake
 - **Data Visualization and BI Tools:** Tableau, Power BI, IBM Cognos, Google Analytics 4, Salesforce, Excel, MATLAB
-- **Cloud Computing:** Azure
+- **Cloud Computing:** Microsoft Azure, Microsoft Fabric
 - **Machine Learning & Analytics:** Customer Segmentation, Regression Modeling, Decision Trees, Boosting (XGBoost), Market Basket Analysis, Recommendation Systems, Time Series Forecasting (ARIMA), A/B Testing & Experimentation, GIS, Large Language Models, Natural Language Processing
 - **Industry Analytics:** Customer Analytics, Pricing & Promotion Analysis, Demand Forecasting, Product Affinity Modeling, Marketing Performance Analysis, Revenue & KPI Analysis
 - **Soft Skills:** Communication, Analytical Thinking, Cross-Functional Collaboration, Leadership, Problem-Solving, Critical Thinking, Proactive, Curious
