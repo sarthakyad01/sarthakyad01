@@ -19,17 +19,19 @@ I’m particularly interested in how data and AI can drive smarter merchandising
 - **Programming Languages:** Python, R, SQL, SAS, Stata, Java, VBA Macros, Power Query, DAX, BigQuery, Snowflake, Microsoft Fabric
 - **Data Visualization and BI Tools:** Tableau, Power BI, IBM Cognos, Google Analytics 4, Salesforce, Excel, MATLAB
 - **Cloud Computing:** Azure
-- **Machine Learning & AI:** Large Language Models (Including Transformers), Natural Language Processing, Optical Character Recognition, Regression Models, Decision Tree, Boosting Algorithms, Sentiment Analysis, GIS
-- **Analytics & Data Management:** Data Cleaning & Processing, Predictive Modeling, Prescriptive Analytics, Forecasting Analytics
+- **Machine Learning & Analytics:** Customer Segmentation, Regression Modeling, Decision Trees, Boosting (XGBoost), Market Basket Analysis, Recommendation Systems, Time Series Forecasting (ARIMA), A/B Testing & Experimentation, GIS, Large Language Models, Natural Language Processing
+- **Industry Analytics:** Customer Analytics, Pricing & Promotion Analysis, Demand Forecasting, Product Affinity Modeling, Marketing Performance Analysis, Revenue & KPI Analysis
 - **Soft Skills:** Communication, Analytical Thinking, Cross-Functional Collaboration, Leadership, Problem-Solving, Critical Thinking, Proactive, Curious
 
 🔗 **Let's Connect:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-yadav-356128185) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakyad01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-yadav-356128185) 
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://saryad.substack.com/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakyad01@gmail.com)
 
 ---
 
-"Driven by the belief that data and AI are the keystones of future innovations, I am on a quest to make a significant impact through technological advancement and strategic development."
+"Motivated by the transformative potential of data and AI, I aim to develop scalable, business-focused analytics solutions that enhance decision-making, optimize performance, and unlock growth opportunities."
 
 
 ---
