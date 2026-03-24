@@ -51,6 +51,8 @@ I’m particularly interested in how data and AI can drive smarter merchandising
 
 - [Big Mart Sales Prediction](https://github.com/sarthakyad01/Big-Mart-Sales.git): This project focuses on predicting the sales of products at Big Mart outlets and to identify the factors influencing sales performance. This involved analyzing historical sales data to develop predictive models that could forecast sales figures based on various store and product attributes. To meet this objective a Decision Tree Model and Boosting Model was employed in R with the Boosting Model ensuring a lower Mean Squared Error as compared to the Decision Tree Model.
 
+- [E-Commerce Customer & Marketing Analytics]
+
 - [North American Stock Exchange Analysis](https://github.com/sarthakyad01/North-American-Stock-Exchange-Analysis.git): Utilized SQL to manipulate a relational database for identifying top-performing stocks in North America; employed Window Functions, SQL Joins, and advanced SQL techniques to design and query the database, enhancing strategic financial decision-making.
 <!--
 **sarthakyad01/sarthakyad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
